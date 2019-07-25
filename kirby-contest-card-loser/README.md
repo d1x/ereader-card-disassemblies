@@ -1,13 +1,13 @@
 # Kirby Contest Card - Loser
 
-![card](img/card.png)
+![ ](img/card.png)
 
-![screenshot](img/screenshot.png)
+![ ](img/screenshot.png)
 
 ## How to build
 
-* Download SDCC
-* Download e-reader tools
+* Download [SDCC](http://sdcc.sourceforge.net/)
+* Download e-reader tools from [caitsith2.com](https://www.caitsith2.com/ereader/index.htm)
 
 Compile:
 ```
@@ -34,6 +34,6 @@ nedcmake.exe -i main.bin -o us -type 1 -region 1
 ## Assets
 
 ** Background **
-![bg0](img/bg0.png)
+![ ](img/bg0.png)
 
-![tiles](img/tiles.png)
+![ ](img/tiles.png)
