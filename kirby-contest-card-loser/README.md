@@ -1,4 +1,9 @@
-# Kirby Contest Card - Loser
+# Promotional Kirby Contest Card (Loser) Disassembly
+
+> E3 2002 promotional Kirby e-Reader cards were distributed on the E3 showfloor. Each card was printed in 3 variants - no prize, 2nd prize, and 1st prize. Scanning the card would result in confirmation if you've won a prize or not. All winning cards were later destroyed.
+[@FactsKirby](https://twitter.com/FactsKirby/status/1100787610769915904)
+
+See [this card's entry in the e-Reader Encyclopedia](http://ereader.no-intro.org/checklists.php?sys=EngList&search_set=Promotional&card_no=1152).
 
 ![ ](img/card.png)
 
