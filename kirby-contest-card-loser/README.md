@@ -31,9 +31,14 @@ makebin.exe -p < main.ihx > main.z80
 
 Remove first 256 bytes of `main.z80`.
 
-Generate `RAW`:
+To run in an emulator: generate `RAW`:
 ```
-nedcmake.exe -i main.bin -o us -type 1 -region 1
+nedcmake.exe -i main.bin -o us -type 1 -region 1 -raw
+```
+
+To run on real hardware: generate `BMP`:
+```
+nedcmake.exe -i main.bin -o us -type 1 -region 1 -bmp
 ```
 
 ## Assets
