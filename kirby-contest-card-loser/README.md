@@ -33,7 +33,8 @@ nedcmake.exe -i main.bin -o us -type 1 -region 1
 
 ## Assets
 
-** Background **
+### Background
 ![ ](img/bg0.png)
 
+### Sprites
 ![ ](img/tiles.png)
