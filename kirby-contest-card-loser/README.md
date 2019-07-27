@@ -12,7 +12,7 @@ See [this card's entry in the e-Reader Encyclopedia](http://ereader.no-intro.org
 ## How to build
 
 * Download [SDCC](http://sdcc.sourceforge.net/)
-* Download e-reader tools from [caitsith2.com](https://www.caitsith2.com/ereader/index.htm)
+* Download [nedcmake](https://www.caitsith2.com/ereader/tools/nedcmake.rar) from [caitsith2.com E-Reader Development Tools](https://www.caitsith2.com/ereader/devtools.htm)
 
 Compile:
 ```
@@ -29,7 +29,7 @@ Make binary:
 makebin.exe -p < main.ihx > main.z80
 ```
 
-Remove first 256 bytes of `main.z80`.
+Remove first 256 bytes of `main.z80` in your editor of choice and save it as `main.bin`.
 
 To run in an emulator: generate `RAW`:
 ```
